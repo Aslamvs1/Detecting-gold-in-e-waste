@@ -1,0 +1,9 @@
+{
+  "class_names": [
+    "gold",
+    "other"
+  ],
+  "threshold": 0.9999927282333374,
+  "val_f1": 0.999999995,
+  "timestamp": "20251013_201454"
+}
